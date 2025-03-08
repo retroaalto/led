@@ -39,3 +39,7 @@ require('lazy').setup {
   -- automatically check for plugin updates
   checker = { enabled = true },
 }
+
+-- Keymappings are defined in lua/keymappings.lua
+require('keymappings')
+
