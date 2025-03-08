@@ -1,3 +1,3 @@
 return {
-	"johnfrankmorgan/whitespace.nvim",
+    'johnfrankmorgan/whitespace.nvim'
 }
